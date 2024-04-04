@@ -21,7 +21,6 @@ Visual components and Python
 
 
 ## Experiment:
-![pro ex06 exp01](https://github.com/prideeshm/Open-Jacson-Networks/assets/144870483/781b06e3-9d28-4534-8472-3a072c3d03ba)
 ![pro ex06 exp02](https://github.com/prideeshm/Open-Jacson-Networks/assets/144870483/1a706359-6d44-43fa-a405-382ff324b0c4)
 
 
